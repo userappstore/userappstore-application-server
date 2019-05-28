@@ -1,0 +1,15 @@
+{
+  "name": "@userappstore/userappstore-application-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@userappstore/app-store-application-server": "git+https://github.com/userappstore/app-store-application-server.git",
+    "@userappstore/storage-postgresql": "git+https://github.com/userappstore/storage-postgresql.git"
+  }
+}
