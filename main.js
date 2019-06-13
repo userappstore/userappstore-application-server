@@ -1,1 +1,2 @@
-require('@userappstore/app-store-application-server/main.js')
+const server = require('@userappstore/app-store-application-server')
+server.start(__dirname)
