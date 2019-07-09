@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@userappstore/app-store-application-server": "git+https://github.com/userappstore/app-store-application-server.git",
-    "@userappstore/storage-postgresql": "git+https://github.com/userappstore/storage-postgresql.git"
+    "@userdashboard/storage-postgresql": "git+https://github.com/userappstore/storage-postgresql.git",
+    "@userdashboard/storage-postgresql": "git+https://github.com/userappstore/storage-postgresql.git"
   }
 }

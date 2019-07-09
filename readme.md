@@ -5,7 +5,7 @@ You should work with the [app store application server](https://github.com/usera
 
      $ npm init
      $ npm install @userappstore/app-store-application-server
-     $ npm install @userappstore/storage-redis
+     $ npm install @userdashboard/storage-redis
      # make your src/www/index.html
      # make your main.js
      $ node main.js
